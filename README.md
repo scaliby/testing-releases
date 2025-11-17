@@ -2,4 +2,4 @@
 
 Hello world!!!
 
-This is a testing repository for testing release flow.
+This is a testing repository for testing release flow!
