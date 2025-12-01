@@ -1,5 +1,5 @@
 # Testing releases
 
-Hello world!!!
+Hello world!!
 
 This is a testing repository for testing release flow!
